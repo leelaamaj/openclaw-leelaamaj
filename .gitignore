@@ -1,0 +1,10 @@
+**/.env
+**/.env.*
+**/openclaw.json
+**/*credentials*
+**/auth-profiles.json
+**/*.pem
+**/id_ed25519*
+**/*.bak-*
+**/.git/
+.DS_Store
