@@ -19,7 +19,7 @@ The safe active workspace files are in `.openclaw/workspace/`. This separate del
 
 ## Evidence
 
-See `evidence/chat-verification.md` for the personalization exchange. Screenshots of the personalized response and uploaded repository accompany this delivery. Git history records the workspace commit and SSH push from the VPS.
+See [the personalization exchange](evidence/chat-verification.md), [personalized chat screenshot](evidence/leviticus-personalization.png), and [uploaded repository screenshot](evidence/openclaw-github-upload.png). Git history records the workspace commit and SSH push from the VPS.
 
 ## Files intentionally excluded
 
